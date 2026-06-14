@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Learn GDScript From Zero\n"
 "Report-Msgid-Bugs-To: https://github.com/GDQuest/learn-gdscript\n"
 "POT-Creation-Date: 2026-01-21 11:55+0100\n"
-"PO-Revision-Date: 2026-05-19 06:11+0000\n"
-"Last-Translator: Jared <1194331986@qq.com>\n"
+"PO-Revision-Date: 2026-06-14 05:01+0000\n"
+"Last-Translator: hoot22 <a13825021878@139.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/learn-gdscript-from-zero/lesson-26-looping-over-dictionaries/"
 "zh_Hans/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 "Generated-By: Babel 2.10.3\n"
 
 #: course/lesson-26-looping-over-dictionaries/lesson.tres:13
@@ -31,7 +31,6 @@ msgstr ""
 "你可以遍历字典，就像你学过遍历数组一样。当你在字典上循环时，你会一个接一个地"
 "得到它的键。然后可以使用每个键来获取它的值。"
 
-#, fuzzy
 msgid "Let's see how this works with two examples."
 msgstr "让我们通过两个示例来看看它是如何工作的。"
 
